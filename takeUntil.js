@@ -9,3 +9,5 @@ const takeUntil = function (array, callback) {
 
   return result;
 }
+
+module.exports = takeUntil;
