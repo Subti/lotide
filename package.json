@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@subti/lotide",
   "version": "1.0.0",
-  "description": "A lightweight JavaScript library inspired by lodash, offering some useful utility functions for simplifying and enhancing your JavaScript projects.",
+  "description": "A lightweight JavaScript library inspired by lodash, offering some useful utility functions for simplifying and enhancing your JS projects.",
   "main": "index.js",
   "directories": {
     "test": "test"
